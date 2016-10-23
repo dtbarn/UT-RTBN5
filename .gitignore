@@ -3,6 +3,7 @@
 /Objects/*
 /SaveChanges/*
 /SaveOriginal/*
+/targetConfigs/*
 *.Dan
 *.axf
 *.htm
@@ -13,7 +14,7 @@
 *.__i
 *.crf
 *.d
-#*.o
+*.o
 *.lst
 *.lnp
 *.bak
